@@ -13,6 +13,7 @@ public class ClassOne {
 		System.out.println("locad master branch ikinci commit");
 
 
+		System.out.println("neyse malum");
 	}
 
 }
